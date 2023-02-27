@@ -1,0 +1,3 @@
+brand,model,year,owner,phoneOwner,entryDate,color,description,price,gas,mileage,state
+Tesla,Model 3,2020,Alejandro Velasquez,3046324311,2023-01-23,blue,problema en los neutomaticos,200,electric,4000,activo
+Tesla,Model X,2020,Julio Velasquez,3207646484,2023-01-23,red,problema en los neutomaticos,200,electric,15000,activo
